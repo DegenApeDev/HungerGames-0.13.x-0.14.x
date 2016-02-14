@@ -1,3 +1,4 @@
+# No making pull request's or forking!
 # HungerGames-0.13-0.14
 This is a Hunger Games plugin for pocketmine 0.13 and 0.14
 
